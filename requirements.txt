@@ -1,0 +1,30 @@
+# Core packet capture (Linux only - use scapy on Windows)
+pcap; sys_platform == 'linux'
+dpkt
+scapy
+
+# Web framework
+flask
+flask-socketio
+flask-cors
+
+# Machine learning
+scikit-learn
+numpy
+pandas
+joblib
+tensorflow  # Optional - can use tensorflow-cpu for CPU-only systems
+
+# Network analysis
+networkx
+
+# HTTP requests
+requests
+
+# UI and formatting
+rich
+colorama
+
+# Visualization (for evaluation scripts)
+matplotlib
+seaborn

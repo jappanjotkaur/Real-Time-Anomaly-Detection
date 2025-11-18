@@ -1,0 +1,18 @@
+{
+  "malicious_ips": [],
+  "malicious_domains": [],
+  "malicious_urls": [],
+  "suspicious_hashes": [],
+  "feed_updates": {
+    "abuse_ch": 1762510119.356947,
+    "emerging_threats": 1762510121.5002825,
+    "malware_domains": 1762510122.3633366
+  },
+  "stats": {
+    "total_ips": 0,
+    "total_domains": 0,
+    "total_urls": 0,
+    "last_update": null
+  },
+  "last_saved": 1762510122.3633366
+}
