@@ -1,10 +1,10 @@
-# NetSniff Guard: Advanced Network Traffic Anomaly Detection System
+# NetCortex: Advanced Network Traffic Anomaly Detection System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 
 ## Overview
-NetSniff Guard is a **cutting-edge network security tool** that combines real-time packet capture with advanced AI-powered anomaly detection. This unique and innovative system goes beyond traditional network monitoring by implementing zero-day attack detection, automated incident response, continuous learning, and multi-channel alerting. It provides comprehensive network visibility and proactive threat detection capabilities.
+NetCortex is a **cutting-edge network security tool** that combines real-time packet capture with advanced AI-powered anomaly detection. This unique and innovative system goes beyond traditional network monitoring by implementing zero-day attack detection, automated incident response, continuous learning, and multi-channel alerting. It provides comprehensive network visibility and proactive threat detection capabilities.
 
 ## 🚀 Unique & Innovative Features
 
@@ -80,7 +80,7 @@ NetSniff Guard is a **cutting-edge network security tool** that combines real-ti
 ## Technical Details
 
 ### Architecture
-NetSniff Guard is organized into modular components:
+NetCortex is organized into modular components:
 - **Packet Capture**: Interfaces directly with network hardware
 - **Packet Parser**: Decodes and extracts packet information
 - **Anomaly Detector**: Applies machine learning for threat detection
@@ -117,8 +117,8 @@ NetSniff Guard is organized into modular components:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/NetSniff-Guard.git
-cd NetSniff-Guard
+git clone https://github.com/your-username/NetCortex.git
+cd NetCortex
 
 # Create a virtual environment with Python 3.7 (recommended)
 python3 -m venv venv
@@ -176,7 +176,7 @@ sudo python3 main.py -m ./my_model/custom_model.pkl
 
 ## Project Structure
 ```
-NetSniff-Guard/
+NetCortex/
 ├── main.py                      # Application entry point
 ├── config.py                    # Configuration settings
 ├── requirements.txt             # Dependencies
@@ -282,7 +282,7 @@ The continuous learning pipeline:
 ### Component Overview
 ```
 ┌─────────────────────────────────────────────────────────┐
-│              NetSniff Guard Advanced Edition            │
+│              NetCortex Advanced Edition                 │
 ├─────────────────────────────────────────────────────────┤
 │  Packet Capture → Parser → Feature Extraction          │
 │       ↓                                                  │
