@@ -1,4 +1,4 @@
-# NetSniff Guard - Comprehensive Project Documentation
+# NetCortex - Comprehensive Project Documentation
 
 ## Executive Summary
 
